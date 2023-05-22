@@ -9,6 +9,9 @@ then when finished delete your note
 ## Credits
 
 ## Screenshots
-![Screenshot]()
+![Screenshot](https://github.com/Ashlhc/Note-Taking-App-Ash/blob/main/public/assets/images/(1)Home%20Screen.jpg)
+![Screenshot](https://github.com/Ashlhc/Note-Taking-App-Ash/blob/main/public/assets/images/(2)New%20Notes%20Page.jpg)
+![Screenshot](https://github.com/Ashlhc/Note-Taking-App-Ash/blob/main/public/assets/images/(3)New%20Note%20Added.jpg)
+![Screenshot](https://github.com/Ashlhc/Note-Taking-App-Ash/blob/main/public/assets/images/(4)Delete%20Route.jpg)
 ## Me 
 [Ashleigh Chute](https://github.com/Ashlhc)
